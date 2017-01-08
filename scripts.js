@@ -19,7 +19,7 @@ var mapLayers = [
 		"Name": "2016",//folder in tiles-layers/
 		"Base": {
 			"Station map": "full",//title: subfolder
-			"Schematic": "schematic"
+			"Schematic": "schematic",
 			"Collage for the year": "collage"
 		},
 		"Overlay": {
