@@ -20,6 +20,7 @@ var mapLayers = [
 		"Base": {
 			"Station map": "full",//title: subfolder
 			"Schematic": "schematic"
+			"Collage for the year": "collage"
 		},
 		"Overlay": {
 			"Disposal": "disposal",
