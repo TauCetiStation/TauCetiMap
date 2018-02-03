@@ -1,4 +1,4 @@
-var defaultMap = "2016";
+var defaultMap = "2017";
 var leafletMap;
 
 window.onload = function(){
@@ -15,6 +15,20 @@ window.onload = function(){
 };
 
 var mapLayers = [
+	{
+		"Name": "2017",//folder in tiles-layers/
+		"Base": {
+			"Station map": "full",//title: subfolder
+			"Schematic": "schematic",
+			"Collage for the year": "collage"
+		},
+		"Overlay": {
+			"Disposal": "disposal",
+			"Pipes": "pipes",
+			"Power net": "power",
+			"Titles": "titles"
+		}
+	},
 	{
 		"Name": "2016",//folder in tiles-layers/
 		"Base": {
