@@ -19,8 +19,7 @@ var mapLayers = [
 		"Name": "2017",//folder in tiles-layers/
 		"Base": {
 			"Station map": "full",//title: subfolder
-			"Schematic": "schematic",
-			"Collage for the year": "collage"
+			"Schematic": "schematic"
 		},
 		"Overlay": {
 			"Disposal": "disposal",
@@ -33,8 +32,7 @@ var mapLayers = [
 		"Name": "2016",//folder in tiles-layers/
 		"Base": {
 			"Station map": "full",//title: subfolder
-			"Schematic": "schematic",
-			"Collage for the year": "collage"
+			"Schematic": "schematic"
 		},
 		"Overlay": {
 			"Disposal": "disposal",
@@ -47,8 +45,7 @@ var mapLayers = [
 		"Name": "2015",
 		"Base": {
 			"Station map": "full",
-			"Schematic": "schematic",
-			"Collage for the year": "collage"
+			"Schematic": "schematic"
 		},
 		"Overlay": {
 			"Disposal": "disposal",
@@ -61,8 +58,7 @@ var mapLayers = [
 		"Name": "2014",
 		"Base": {
 			"Station map": "full",
-			"Schematic": "schematic",
-			"Collage for the year": "collage"
+			"Schematic": "schematic"
 		},
 		"Overlay": {
 			"Disposal": "disposal",
